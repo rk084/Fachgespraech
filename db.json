@@ -2,14 +2,14 @@
   "Baden": {
     "Stadt": "Karlsruhe",
     "Gerichte": {
-      1: "Wurschdsalat",
-      2: "Grummbiresalat",
-      3: "Kässpätzle",
-      4: "Schupdnudle"
+      "1": "Wurschdsalat",
+      "2": "Grummbiresalat",
+      "3": "Kässpätzle",
+      "4": "Schupdnudle"
     },
     "Bier": {
-      1: "Tannezäpfle",
-      2: "Hoepfner"
+      "1": "Tannezäpfle",
+      "2": "Hoepfner"
     }
   }
 }
